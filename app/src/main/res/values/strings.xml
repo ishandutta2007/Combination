@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Combination</string>
+    <string name="ms">Media Streaming</string>
+    <string name="yts">Youtube Streaming</string>
+    <string name="pv">Photo View</string>
+    <string name="vs">View Streaming</string>
+    <string name="ss">Start Streaming</string>
+    <string name="message">This options is not working</string>
+</resources>

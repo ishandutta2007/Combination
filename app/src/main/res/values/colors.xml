@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="white">#ffffff</color>
+    <color name="black">#000000</color>
+    <color name="blue">#0E1588</color>
+    <color name="edit_text_corner">#787373</color>
+    <color name="white_smoke">#f5f5f5</color>
+    <color name="action_bar_bg">#225760</color>
+    <color name="toggle_bg_light">#265F68</color>
+    <color name="gray_button_bg">#775E52</color>
+    <color name="bg_top">#FF5A53</color>
+    <color name="bg_bottom">#FF8078</color>
+    <color name="lower_button_color">#D4645A</color>
+    <color name="facebook_color">#335B94</color>
+    <color name="google_color">#D4222D</color>
+    <color name="circle_color">#E95148</color>
+    <color name="Maroon">#800000</color>
+</resources>
