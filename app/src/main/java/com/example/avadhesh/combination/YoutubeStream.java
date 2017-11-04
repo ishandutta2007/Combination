@@ -53,7 +53,7 @@ public class YoutubeStream extends YouTubeBaseActivity implements View.OnClickLi
 
         } else if (v.getId() == R.id.btnview) {
 
-            youTubePlayerView.initialize("AIzaSyDkHhN-lXGv1C7V_PJri7tGVedd6elX4Ck", onInitializedListener);
+            youTubePlayerView.initialize("Your API Key", onInitializedListener);
         }
     }
 }
