@@ -32,7 +32,7 @@ public class YoutubeStream extends YouTubeBaseActivity implements View.OnClickLi
             @Override
             public void onInitializationSuccess(YouTubePlayer.Provider provider, YouTubePlayer youTubePlayer, boolean b) {
 
-                youTubePlayer.loadVideo("RtU_mdL2vBM");
+                youTubePlayer.loadVideo("bIh6rgC_voI");
             }
 
             @Override
@@ -53,7 +53,7 @@ public class YoutubeStream extends YouTubeBaseActivity implements View.OnClickLi
 
         } else if (v.getId() == R.id.btnview) {
 
-            youTubePlayerView.initialize("Your API Key", onInitializedListener);
+            youTubePlayerView.initialize("AIzaSyDkHhN-lXGv1C7V_PJri7tGVedd6elX4Ck", onInitializedListener);
         }
     }
 }
