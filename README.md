@@ -19,3 +19,10 @@ If you have a github account then follow the following steps:
 6. If the test connection was successful click OK.
 7. Run the project.
 8. if the test was not successful then download the zip file and follow those steps.
+
+### Support:
+
+If you want the good work to continue please support us on
+
+* [PAYPAL](https://www.paypal.me/ishandutta2007)
+* [BITCOIN ADDRESS: 3LZazKXG18Hxa3LLNAeKYZNtLzCxpv1LyD](https://www.coinbase.com/join/5a8e4a045b02c403bc3a9c0c)
